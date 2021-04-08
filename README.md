@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi! I'm Agostina 😄
 
-<!--
-**AgostinaLuciano/AgostinaLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm s software developer with knowledge about Java  and Spring framework. In particular, i am learning about design patterns anda Java 8, and doing my firsts steps with Docker. 
+
+I invite you to see my repo ###Crypto-pocket where i am  working up to now.
+
+Reach me by *[LinkedIn](https://www.linkedin.com/in/agostina-luciano-9354ab208/)
 
 Here are some ideas to get you started:
 
